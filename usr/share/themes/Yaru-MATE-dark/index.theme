@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Yaru-MATE-dark
+Type=X-GNOME-Metatheme
+Comment=Ubuntu MATE Yaru-dark theme
+Encoding=UTF-8
+GtkTheme=Yaru-MATE-dark
+IconTheme=Yaru-MATE
+CursorTheme=Yaru-MATE
+CursorSize=24

@@ -1,0 +1,10 @@
+Package: yaru-mate-themes
+Version: 1groovy
+Architecture: all
+Maintainer: Klein Kravis <kleinkravis@fedoraproject.org>
+Installed-Size: 101977
+Section: gnome
+Priority: optional
+Description: Yaru-MATE theme
+Forked: from Yaru Colours (which was forked from Yaru) 
+Includes: a GTK, Metacity, and Icon theme
