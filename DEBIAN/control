@@ -1,10 +1,10 @@
-Package: yaru-mate-themes
-Version: 1groovy
+Package: yaru-mate-ppa
+Version: 21.04
 Architecture: all
-Maintainer: Klein Kravis <kleinkravis@fedoraproject.org>
+Maintainer: Klein Kravis (hydromalis) <kleinkravis@outlook.com>
 Installed-Size: 101977
 Section: gnome
 Priority: optional
-Description: Yaru-MATE theme
+Description: Yaru-MATE theme (PPA version)
 Forked: from Yaru Colours (which was forked from Yaru) 
 Includes: a GTK, Metacity, and Icon theme
