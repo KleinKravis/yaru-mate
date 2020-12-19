@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+    <wallpaper>
+    <wallpaper deleted="false">
+        <name>Yaru-MATE-hirsute</name>
+        <filename>/usr/share/backgrounds/yaru-mate/yaru-mate-hirsute.jpg</filename>
+        <options>zoom</options>
+        <artist>Klein Kravis (hydromalis), Ubuntu team</artist>
+    </wallpaper>
+</wallpapers>
