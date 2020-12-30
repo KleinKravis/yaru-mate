@@ -1,7 +1,9 @@
+Package: yaru-mate
 Source: yaru-mate
 Section: x11
 Priority: optional
-Maintainer: Klein Kravis (hydromalis) <kleinkravis@outlook.com>
+architecture: all
+Maintainer: Klein Kravis <kleinkravis@outlook.com>
 Build-Depends: debhelper (>= 11), ubuntu-mate-artwork
 Standards-Version: 4.1.3
 Homepage: https://yaru-mate.weebly.com
