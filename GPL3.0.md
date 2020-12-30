@@ -1,3 +1,6 @@
+If you are unsure as to wich license an object is under, please see the copyright file                    
+                    
+                    
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
